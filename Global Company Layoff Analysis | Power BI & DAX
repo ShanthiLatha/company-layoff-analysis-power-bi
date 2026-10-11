@@ -1,0 +1,39 @@
+# Global Company Layoff Analysis | Power BI & DAX
+
+## Project Overview
+This project analyzes global company layoffs from 2020 to 2023 using Power BI. It explores layoff trends across companies, countries, industries, and time periods to understand workforce reduction patterns.
+
+## Tools Used
+- Microsoft Power BI
+- DAX
+- Microsoft Excel
+
+## Project Objectives
+- Analyze total layoffs across the selected period.
+- Identify companies with significant layoffs.
+- Compare layoffs across countries and industries.
+- Explore yearly and monthly layoff trends.
+- Present key findings through interactive visualizations.
+
+## Project Workflow
+1. Reviewed the layoffs dataset.
+2. Cleaned and prepared the data.
+3. Built data visualizations in Power BI.
+4. Created DAX measures, where applicable.
+5. Designed an interactive dashboard.
+6. Identified patterns and trends in company layoffs.
+
+## Key Insights
+- Examined global layoff trends from 2020 to 2023.
+- Compared layoffs across companies and countries.
+- Explored industry-level and time-based patterns.
+
+*Replace or expand these findings with the actual numbers and insights from your dashboard.*
+
+## Files Included
+- `Company_Layoff_Dashboard.pbix` — Power BI dashboard.
+- `Layoff_Data.xlsx` — Dataset, if included.
+- `dashboard_screenshot.png` — Dashboard preview, if included.
+
+## Skills Demonstrated
+Power BI | DAX | Excel | Data Cleaning | Data Modeling | Data Visualization | Exploratory Data Analysis
